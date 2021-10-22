@@ -10,15 +10,15 @@ The techno-economical study for viability of any PV system requires accurately e
 
 ## File Descriptions
 
-* [long1.csv] (https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/long1.csv) :- Data used for Training.
-* [march.csv] (https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/march.csv) :- Data used for Testing.
-* [solar_deep.ipynb] (https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/solar_deep.ipynb) :- This notebook describes
+* <strong>[long1.csv] (https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/long1.csv)</strong> :- Data used for Training.
+* <strong>[march.csv] (https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/march.csv)</strong> :- Data used for Testing.
+* <strong>[solar_deep.ipynb] (https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/solar_deep.ipynb)</strong> :- This notebook describes
     * Data analysis of Solar Insolation Time Series
     * Creating dataset for forcasting
     * Model defining and training
     * Visualizing loss
     * Testing on the test data
-* [solar_prophet.ipynb] (https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/solar_prophet.ipynb) :- This notebook describes
+* <strong>[solar_prophet.ipynb] (https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/solar_prophet.ipynb)</strong> :- This notebook describes
     * Basics of Prophet
     * Data pre-processing
     * Model defining and training
