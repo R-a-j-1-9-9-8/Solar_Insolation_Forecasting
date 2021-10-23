@@ -12,6 +12,7 @@ The techno-economical study for viability of any PV system requires accurately e
 
 * <strong>[long1.csv](https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/long1.csv)</strong> :- Data used for Training.
 * <strong>[march.csv](https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/march.csv)</strong> :- Data used for Testing.
+* <strong>[deep_model.h5](https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/deep_model.h5)</strong> :- Deep learning based LSTM model, which was trained in solar_deep.ipynb notebook.
 * <strong>[solar_deep.ipynb](https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/solar_deep.ipynb)</strong> :- This notebook describes
     * Time Series analysis
     * Creating dataset for forcasting
