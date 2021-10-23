@@ -13,16 +13,17 @@ The techno-economical study for viability of any PV system requires accurately e
 * <strong>[long1.csv](https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/long1.csv)</strong> :- Data used for Training.
 * <strong>[march.csv](https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/march.csv)</strong> :- Data used for Testing.
 * <strong>[solar_deep.ipynb](https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/solar_deep.ipynb)</strong> :- This notebook describes
-    * Data analysis of Solar Insolation Time Series
+    * Time Series analysis
     * Creating dataset for forcasting
     * Model defining and training
     * Visualizing loss
-    * Testing on the test data
+    * Prediction
+    * Calculating RMSE
 * <strong>[solar_prophet.ipynb](https://github.com/R-a-j-1-9-9-8/Solar_Insolation_Forecasting/blob/main/solar_prophet.ipynb)</strong> :- This notebook describes
     * Basics of Prophet
-    * Data pre-processing
-    * Model defining and training
-    * Testing on the test data
+    * Data Importing and Pre-Processing
+    * Training the model
+    * Prediction and Calculating RMSE
 
 ## Tools & Tecnologies Used:
 
@@ -36,3 +37,4 @@ The techno-economical study for viability of any PV system requires accurately e
 * <strong>fbprophet</strong>
 * <strong>TensorFlow</strong>
 * <strong>Keras</strong>
+* <strong>fbProphet</strong>
